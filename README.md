@@ -1,6 +1,6 @@
 # npmtest-gulp-asset-rev
 
-#### test coverage for  [gulp-asset-rev (v0.0.15)](https://github.com/hellopao/gulp_plugin)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-asset-rev.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-asset-rev) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-asset-rev.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-asset-rev)
+#### basic test coverage for  [gulp-asset-rev (v0.0.15)](https://github.com/hellopao/gulp_plugin)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-asset-rev.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-asset-rev) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-asset-rev.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-asset-rev)
 
 #### replace asset's filename by adding file hash
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-asset-rev/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-asset-rev/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-asset-rev/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-asset-rev/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-asset-rev/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-asset-rev/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-gulp-asset-rev/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-gulp-asset-rev/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-asset-rev/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-asset-rev/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-gulp-asset-rev/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-asset-rev/build/coverage.html/index.html)
 
@@ -78,7 +78,8 @@
         "url": "git+https://github.com/hellopao/gulp_plugin.git"
     },
     "scripts": {},
-    "version": "0.0.15"
+    "version": "0.0.15",
+    "bin": {}
 }
 ```
 
